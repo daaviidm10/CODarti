@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CODarti:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CODarti_jar</output-path>
+    <root id="archive" name="CODarti.jar">
+      <element id="module-output" name="CODarti" />
+    </root>
+  </artifact>
+</component>
